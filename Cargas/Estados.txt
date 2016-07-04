@@ -1,0 +1,12 @@
+INSERT INTO `alinecr_gestaoclinica`.`TIPO_RELACAO_TPR` VALUES (1, 'FORNECEDOR', DATE_FORMAT(NOW(),'%Y/%m/%d'), NULL, 'ADMIN', DATE_FORMAT(NOW(),'%Y/%m/%d'));
+INSERT INTO `alinecr_gestaoclinica`.`TIPO_RELACAO_TPR` VALUES (2, 'CLIENTE', DATE_FORMAT(NOW(),'%Y/%m/%d'), NULL, 'ADMIN', DATE_FORMAT(NOW(),'%Y/%m/%d'));
+INSERT INTO `alinecr_gestaoclinica`.`TIPO_RELACAO_TPR` VALUES (3, 'PROFISSIONAL', DATE_FORMAT(NOW(),'%Y/%m/%d'), NULL, 'ADMIN', DATE_FORMAT(NOW(),'%Y/%m/%d'));
+INSERT INTO `alinecr_gestaoclinica`.`TIPO_RELACAO_TPR` VALUES (4, 'COLABORADOR', DATE_FORMAT(NOW(),'%Y/%m/%d'), NULL, 'ADMIN', DATE_FORMAT(NOW(),'%Y/%m/%d'));
+
+
+/*
+1 - Fornecedor
+2 - Cliente
+3 - Profissional
+4 - Colaborador)
+*/
