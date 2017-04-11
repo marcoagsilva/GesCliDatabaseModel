@@ -1,0 +1,41 @@
+Cenários Atendimento Clínica
+
+- Autorização
+	- Leitora de Cartão (Avaliar padrões Operadoras)
+	- Via Digitado
+	- Via Autorização Eletrônica
+	- Via Autorização Operadora
+	- Revalidação de Senhas
+
+- Faturamento
+	- Lotes Guias
+	- Avaliar prerrogativas de DPS
+	- Avaliar regras de contabilidade
+	- Avaliar regras Operadora
+		- Prever regras por Operadora (Copiar conceito SAW)
+
+- Glosa	
+	- Recurso de Glosa
+
+- Atendimento
+	- Agenda
+	- Fluxo
+	- Profissionais
+
+- Cadastros Básicos
+	- Operadoras	
+	- Especialidades
+	- Tabelas Negociadas
+		- Valorização de Tabelas
+
+- Manutenção Técnica
+	- Rotinas de Expurgo
+	- Parametrização de WebServices TISS
+
+- Mensageria TISS
+	- Solicitação de Procedimentos
+	- Recurso de Glosa
+	- Status da Transação
+	- Status do Protocolo
+	- Envio de Lote Guias
+
