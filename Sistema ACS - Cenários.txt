@@ -18,9 +18,13 @@ Cenários Atendimento Clínica
 	- Recurso de Glosa
 
 - Atendimento
-	- Agenda
+	- Agendamento:  Possui uma Sala, Possui um Horário, Possui um Profissional
 	- Fluxo
 	- Profissionais
+	- Salas: Possui Horários
+	- Horário / Sala
+	- Horários: Possui um Período (Manhã, Tarde, Noite)
+	- HoráriosPeriodo (Manhã, Tarde e Noite)
 
 - Cadastros Básicos
 	- Operadoras	
