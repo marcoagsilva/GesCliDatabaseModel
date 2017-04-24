@@ -25,12 +25,18 @@ Cenários Atendimento Clínica
 	- Horário / Sala
 	- Horários: Possui um Período (Manhã, Tarde, Noite)
 	- HoráriosPeriodo (Manhã, Tarde e Noite)
+	- Um agendamento pode gerar um atendimento, caso gere, deve-se realizar o rateio conforme negociação
 
 - Cadastros Básicos
 	- Operadoras	
 	- Especialidades
 	- Tabelas Negociadas
 		- Valorização de Tabelas
+	- Tabelas Negociadas Prestadores
+		- Realizar parametrização das negociações entre a Clínica e os profissionais prestadores de serviços
+	- Cadastro de Salas de Atendimento
+	- Cadastro de Horários de Atendimento
+	- Cadastro de Períodos de Atendimento
 
 - Manutenção Técnica
 	- Rotinas de Expurgo
